@@ -8,7 +8,7 @@ exports.getList = (ctx, next) => {
       list: [
         {
           id: 1, //    id
-          pic: '/imgs/1/pic.jpg', //   封面图
+          pic: '/m/1/pic.jpg', //   封面图
           src: '/m/増田俊郎 - おふざけモード.mp3', //   源
           song: 'おふざけモード',
           singer: '増田俊郎',
@@ -24,7 +24,7 @@ exports.getList = (ctx, next) => {
         },
         {
           id: 2, //    id
-          pic: '/imgs/2/pic.jpg', //   封面图
+          pic: '/m/2/pic.jpg', //   封面图
           src: '/m/晓月老板 - 探清水河.mp3', //   源
           song: '探清水河',
           singer: '晓月老板',
@@ -40,7 +40,7 @@ exports.getList = (ctx, next) => {
         },
         {
           id: 3, //    id
-          pic: '/imgs/3/pic.jpg', //   封面图
+          pic: '/m/3/pic.jpg', //   封面图
           src: '/m/石川恵樹 - 清く正しくカブタック(INSTRUMENTAL VERSION).mp3', //   源
           song: '清く正しくカブタック(INSTRUMENTAL VERSION)',
           singer: '石川恵樹',
@@ -56,7 +56,7 @@ exports.getList = (ctx, next) => {
         },
         {
           id: 4, //    id
-          pic: '/imgs/4/pic.jpg', //   封面图
+          pic: '/m/4/pic.jpg', //   封面图
           src: '/m/神前暁 - こなたのテーマ、普通バージョン.mp3', //   源
           song: 'こなたのテーマ、普通バージョン',
           singer: '神前暁',
@@ -72,7 +72,7 @@ exports.getList = (ctx, next) => {
         },
         {
           id: 5, //    id
-          pic: '/imgs/5/pic.jpg', //   封面图
+          pic: '/m/5/pic.jpg', //   封面图
           src: '/m/近藤浩治 - Super Mario Bros. 3 ／ アスレチックBGM.mp3', //   源
           song: 'Super Mario Bros. 3 ／ アスレチックBGM',
           singer: '近藤浩治',
@@ -88,7 +88,7 @@ exports.getList = (ctx, next) => {
         },
         {
           id: 6, //    id
-          pic: '/imgs/6/pic.jpg', //   封面图
+          pic: '/m/6/pic.jpg', //   封面图
           src: '/m/陆通 - 膨胀.mp3', //   源
           song: '膨胀',
           singer: '陆通',
